@@ -1,0 +1,26 @@
+{
+  "title": "Memphis-Inspired Piano Loops",
+  "study": "z5101",
+  "bpm": 140,
+  "source_audio": "preview/memphis-inspired-piano-loops-simple-synth-preview.mp3",
+  "source_audio_sha256": "8a3b83ea83dba9ebadb876b57f7485c3fcd92a4f9f68c376c3099a4cb9412007",
+  "source_midi": "midi/z5101-memphis-inspired-piano-loops-opening/z5101-memphis-inspired-piano-loops-opening-combined.mid",
+  "source_midi_sha256": "9029527c7129122561f5b87e1f738ae8b751613b46cb38c3e155ff9a6dbb4e78",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "962d250975a75e25a3c972cb7e87e2b5c9f933d4b7d09392043b17493bcbfca9",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "2dcf721f60e3d64b96cd185f5b959ec8bc07a67979d373f99b34ace58d5eea0b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "6162ca79b0bbc33a3087fefe7e2d54470e13886d973c5116a6efbe2426e9c772",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

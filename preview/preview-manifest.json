@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/memphis-inspired-piano-loops-simple-synth-preview.mp3",
+  "preview_sha256": "8a3b83ea83dba9ebadb876b57f7485c3fcd92a4f9f68c376c3099a4cb9412007",
+  "source_midi_path": "midi/z5101-memphis-inspired-piano-loops-opening/z5101-memphis-inspired-piano-loops-opening-combined.mid",
+  "source_midi_sha256": "9029527c7129122561f5b87e1f738ae8b751613b46cb38c3e155ff9a6dbb4e78",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z5101",
+    "start_seconds": 0,
+    "end_seconds": 54.857
+  },
+  "measurement": {
+    "sample_peak": 0.101489,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

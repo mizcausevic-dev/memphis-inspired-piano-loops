@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:11.577503+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "5d2cfb7d4db3ee21b93603d3c4106eaf6d5173221274a604a7558f68aa1bf0e9",
+      "errors": []
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "458f347f62731730d1c59341e42822ba968cead950504f4e35f92466e0d5ffc6",
+      "errors": []
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "d618568eb201189413830ca7bc004c48e5ef94a3af4666729a9f3935bcaa91d5",
+      "errors": []
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "2abe4b2af2a0babf9a93060dcad81274b8769a90eff973a4c45bf61c16481911",
+      "errors": []
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9db8d6871ae0abfc0e8a96c43a0f950ac23fde7dc457558efc854eb9b754cc7e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/z5101-memphis-inspired-piano-loops-opening-combined.mid",
+      "bytes": 5669,
+      "sha256": "9029527c7129122561f5b87e1f738ae8b751613b46cb38c3e155ff9a6dbb4e78",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c0cac8813aeea1b596698a087fd4d5966e300bb099da5c45740fc3a44f883e14",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dd4f64b89bbb9361ececac4338cb2e7ca4e9e08be715d7ea888e860c53308753",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "be2ca73dfe4893bfc32992c5d47fd79f4988105635a9484de704c8d0c0ed85c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "8d57a70fce3282283521608c03d52ea7215b99ae9e78f0cbc62e8bf1c6500cc9",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "35f50feaf3cdca5a93195999194a8963c7750988dc3058319ede4759e4115a34",
+      "errors": []
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/z5102-memphis-inspired-piano-loops-variation-combined.mid",
+      "bytes": 5669,
+      "sha256": "8e9017b6cd5098e98922a53e8286c7d2d795a7125f32ba02b8bc3391a7000a1e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "15273e61dc08892294eecf279817eff1ec7a6d7dd025f33fa32ea6d063c253a9",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "64d0ade1ac8ef8653c307cc482769c896d460c6c563eb17a58e087f023f15ed8",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "1b2573aa7ecdf438d5ac51938e8c474fb4b4a6c7af54b68df2c0a5463ca29026",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "42105a46527623729bc71d78a400fb7164f3fd33c7234d09ea3fe1cb10f97c54",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98",
+      "errors": []
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/z5103-memphis-inspired-piano-loops-contrast-combined.mid",
+      "bytes": 5635,
+      "sha256": "f253bccb5053747ea425931ecd4bb5e2b063c42b445a5ef2316a65aa892d4c46",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c731e8626fc040fa5088b7aac786ac48901d2b5efeafd391f4449a22ec49e70c",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "7b728caa803cb040e60979f2ddcb17203d02973938222199ce9fb1679297a2b1",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "dd7bfd7495fc21a56c33e0aa1fd93c7da91336c5d839411fe3f6fc48d34f64e4",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "1b603db9fbef5b6406165bdd424fe166d577d29087820a2f7b69e5e6cbc5bdf3",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4717e9213be7995888ff5394b3851314b58dede3fd80bf40299f30831ea83c27",
+      "errors": []
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/z5104-memphis-inspired-piano-loops-return-combined.mid",
+      "bytes": 5635,
+      "sha256": "0798915ade0aa2668fe540a8180e7d6d9666e3e4dd01dc4e24f037f7c0716aa0",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

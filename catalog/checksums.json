@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1937,
+      "sha256": "d2b55f8b70aaaa0f553686cab5b32e1505dff6b8bfd00b06e51bd05804e1b50e"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 265893,
+      "sha256": "2dcf721f60e3d64b96cd185f5b959ec8bc07a67979d373f99b34ace58d5eea0b"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2282463,
+      "sha256": "67e9022a1300a24bb0658c5f44ca47fee6ff6346d85cd54e162a147efd7dc4cd"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 296,
+      "sha256": "ba7bfdfe0c8804896765f075789694d96186dd46082e9109797342e9a20ecbfd"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "c721e8e7b5b4b1c7af99e3bf566018e52537011c5526283b4aad887f38a23b43"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 293951,
+      "sha256": "458c2792db0370ece48d9c17d06b0c14a8475b214337e9485787b76fd36ca585"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 763,
+      "sha256": "e313ed88dc5e043c5394218ed5041c8578200384330d2ef0b88188f385ed4f3c"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 763,
+      "sha256": "e313ed88dc5e043c5394218ed5041c8578200384330d2ef0b88188f385ed4f3c"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "5ce8870b6d090060a017ca011d73cad630b4be1870976af09a094d916d82edb2"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25686,
+      "sha256": "47d4d15e5da6f8798069b60c5c7b3e5e5ba34cfd342aaa203ef9e62bcfb61c3e"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99109,
+      "sha256": "962d250975a75e25a3c972cb7e87e2b5c9f933d4b7d09392043b17493bcbfca9"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2540,
+      "sha256": "160f10978fd8592b3d6ab13a69feb12e53d821245385c077efb17dc7b0e7aab4"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "6536c5e419e24e8bc7f4cbeb9171f49e2dc7190d40bd7c313710206474f2f3d4"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1271,
+      "sha256": "70b500a19d5c3c0fcc0739aaa1a18e048b3a293294b45e337192201f8fcda4f4"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 395,
+      "sha256": "0ef555ed90f5a9fbfa8d73dd59d4638569099d47d97ac103c411506445ef8513"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "8f1707bb5fc6f0dfe1e73465c87f69de8897b672779aed79d627854672616e1d"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z5101-melody-01.mid",
+      "bytes": 166,
+      "sha256": "f38497757fb29a2e8effb3f776d17541b06f54904819ffb24800b185b70a118d"
+    },
+    {
+      "path": "clips/z5101-melody-02.mid",
+      "bytes": 165,
+      "sha256": "6ce4a39a6c450363f0760ac5dc63653916b903a31e2b35831584605e54c939d4"
+    },
+    {
+      "path": "clips/z5101-melody-03.mid",
+      "bytes": 122,
+      "sha256": "a423792d18dd3bc2cb0b165d3673cfb899d3ce4d57120946988978719f459b7e"
+    },
+    {
+      "path": "clips/z5101-melody-04.mid",
+      "bytes": 122,
+      "sha256": "f86f7c52064d3b2f206a764527e756bb6bd197501ff1bec3cccf78ad18fe6f14"
+    },
+    {
+      "path": "clips/z5102-melody-01.mid",
+      "bytes": 166,
+      "sha256": "40b2debc5ebc009841680c19f18c6520cc8bc455ff558f8eb9559f231176c52e"
+    },
+    {
+      "path": "clips/z5102-melody-02.mid",
+      "bytes": 165,
+      "sha256": "b82fcaba5650acd4e73cbbd23824abea5620ec2b7944ba1719d445f118a22fb7"
+    },
+    {
+      "path": "clips/z5102-melody-03.mid",
+      "bytes": 122,
+      "sha256": "2fd8ae41d13b197fc04b4c9d1a19d7622ae9020776928296fb160dcdbbc7b5df"
+    },
+    {
+      "path": "clips/z5102-melody-04.mid",
+      "bytes": 122,
+      "sha256": "75105815193e8ddb9d654fd10eff7e31fc27b96e50401b7702094d05247e1642"
+    },
+    {
+      "path": "clips/z5103-melody-01.mid",
+      "bytes": 167,
+      "sha256": "947fbb5c2ee1cc74c65a48a188b0da10f77cc341327ed54ab8de8026f55ecbd3"
+    },
+    {
+      "path": "clips/z5103-melody-02.mid",
+      "bytes": 166,
+      "sha256": "66509b8a1258226ef8397f7e0cd3fd4cee6f670f1f096a0997c31a31d2e30c38"
+    },
+    {
+      "path": "clips/z5103-melody-03.mid",
+      "bytes": 105,
+      "sha256": "d31b37f0b7154028e4b8a183a0bfb128be81eac14467a1aeab291142af2a44cc"
+    },
+    {
+      "path": "clips/z5103-melody-04.mid",
+      "bytes": 105,
+      "sha256": "715b2208647d02d96491266c4860667fab7ed79dca6266eddc4d5fe43d8727f3"
+    },
+    {
+      "path": "clips/z5104-melody-01.mid",
+      "bytes": 167,
+      "sha256": "af6f628d35fc816522c40d78cdc67451b0b41076a084876adb8fce0814eb673a"
+    },
+    {
+      "path": "clips/z5104-melody-02.mid",
+      "bytes": 166,
+      "sha256": "18750e54c52722ffe36808059ab7d2559b0e292ec5aaea5427164fbe4c62fa99"
+    },
+    {
+      "path": "clips/z5104-melody-03.mid",
+      "bytes": 104,
+      "sha256": "610edeee9467f24cb5220647fae95c5b82beec7f7e8ef3f4d84ddefbe537b639"
+    },
+    {
+      "path": "clips/z5104-melody-04.mid",
+      "bytes": 104,
+      "sha256": "b788bfbba56f85054b2146f15578a310faf71a785ee52f7ae0397849aea4048c"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 448,
+      "sha256": "fa848dc1c2e51cd4be8080c0a9758c334de7f666f44cf50c1f297b647c46704d"
+    },
+    {
+      "path": "downloads/memphis-inspired-piano-loops-midi.zip",
+      "bytes": 31818,
+      "sha256": "43fae773c68f2c93c8c79699470fb45bc955666e4046017c9153a697f5a014b7"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2953,
+      "sha256": "c04218cc75cf6cf6595f1f70d344976a5e73dd479cbb9eb1212649c03098a99a"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 33728,
+      "sha256": "d01e1c8e531988053f29b3d6e917deab3a5f680ae44073ceeb26d2f068df9b86"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 243912,
+      "sha256": "beeac47ce621e3447887471cff37334c8d823fa6e26062a70d4350ddbcb1dcc3"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 998362,
+      "sha256": "6162ca79b0bbc33a3087fefe7e2d54470e13886d973c5116a6efbe2426e9c772"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1246,
+      "sha256": "157cd0788d3d2fb69a9ba79af0e26dfdf6da1323181ad8594ba44381c7420805"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10116,
+      "sha256": "dc57d2c32819becd78b2d944a2ace50bf011e41acdc786c572cb235771beb27f"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "5d2cfb7d4db3ee21b93603d3c4106eaf6d5173221274a604a7558f68aa1bf0e9"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "458f347f62731730d1c59341e42822ba968cead950504f4e35f92466e0d5ffc6"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "d618568eb201189413830ca7bc004c48e5ef94a3af4666729a9f3935bcaa91d5"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "2abe4b2af2a0babf9a93060dcad81274b8769a90eff973a4c45bf61c16481911"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9db8d6871ae0abfc0e8a96c43a0f950ac23fde7dc457558efc854eb9b754cc7e"
+    },
+    {
+      "path": "midi/z5101-memphis-inspired-piano-loops-opening/z5101-memphis-inspired-piano-loops-opening-combined.mid",
+      "bytes": 5669,
+      "sha256": "9029527c7129122561f5b87e1f738ae8b751613b46cb38c3e155ff9a6dbb4e78"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c0cac8813aeea1b596698a087fd4d5966e300bb099da5c45740fc3a44f883e14"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dd4f64b89bbb9361ececac4338cb2e7ca4e9e08be715d7ea888e860c53308753"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "be2ca73dfe4893bfc32992c5d47fd79f4988105635a9484de704c8d0c0ed85c7"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "8d57a70fce3282283521608c03d52ea7215b99ae9e78f0cbc62e8bf1c6500cc9"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "35f50feaf3cdca5a93195999194a8963c7750988dc3058319ede4759e4115a34"
+    },
+    {
+      "path": "midi/z5102-memphis-inspired-piano-loops-variation/z5102-memphis-inspired-piano-loops-variation-combined.mid",
+      "bytes": 5669,
+      "sha256": "8e9017b6cd5098e98922a53e8286c7d2d795a7125f32ba02b8bc3391a7000a1e"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "15273e61dc08892294eecf279817eff1ec7a6d7dd025f33fa32ea6d063c253a9"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "64d0ade1ac8ef8653c307cc482769c896d460c6c563eb17a58e087f023f15ed8"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "1b2573aa7ecdf438d5ac51938e8c474fb4b4a6c7af54b68df2c0a5463ca29026"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "42105a46527623729bc71d78a400fb7164f3fd33c7234d09ea3fe1cb10f97c54"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98"
+    },
+    {
+      "path": "midi/z5103-memphis-inspired-piano-loops-contrast/z5103-memphis-inspired-piano-loops-contrast-combined.mid",
+      "bytes": 5635,
+      "sha256": "f253bccb5053747ea425931ecd4bb5e2b063c42b445a5ef2316a65aa892d4c46"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c731e8626fc040fa5088b7aac786ac48901d2b5efeafd391f4449a22ec49e70c"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "7b728caa803cb040e60979f2ddcb17203d02973938222199ce9fb1679297a2b1"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "bf297ff77723d3cfe48da99347524574b23878e0a3734cd16d5174b17297107a"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "dd7bfd7495fc21a56c33e0aa1fd93c7da91336c5d839411fe3f6fc48d34f64e4"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "1b603db9fbef5b6406165bdd424fe166d577d29087820a2f7b69e5e6cbc5bdf3"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4717e9213be7995888ff5394b3851314b58dede3fd80bf40299f30831ea83c27"
+    },
+    {
+      "path": "midi/z5104-memphis-inspired-piano-loops-return/z5104-memphis-inspired-piano-loops-return-combined.mid",
+      "bytes": 5635,
+      "sha256": "0798915ade0aa2668fe540a8180e7d6d9666e3e4dd01dc4e24f037f7c0716aa0"
+    },
+    {
+      "path": "preview/memphis-inspired-piano-loops-simple-synth-preview.mp3",
+      "bytes": 1330408,
+      "sha256": "8a3b83ea83dba9ebadb876b57f7485c3fcd92a4f9f68c376c3099a4cb9412007"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1194,
+      "sha256": "8ef942eeda9540f6f1c98af985622a5547664ff925ad52fce53487aefdce43a0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4021,
+      "sha256": "e095ddb15b4606a8c96fad48836a2b8af37db60e206131a9e8a1f1e0d4209e32"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 231,
+      "sha256": "e3eb227b7eafa47782317ab1b1e5e362050ac79b579b475270a2b4136a9458f0"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 305853,
+      "sha256": "619d25120b470604aca4d6f74868eec2b53edc7cd5f88b2f1fd6d7962b137da5"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 266576,
+      "sha256": "08e53d7e54f578994c08e5143ff939e9174c3b1767661eea4208f9c21453aa76"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 240197,
+      "sha256": "a68879a29c144e1902b4e450732f2e5033dfc0cf078e0bbd23c8b1e984c5e1b2"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 193,
+      "sha256": "a1a5feb2214e6c0e35762a633ca1878a63f32b8d12603ac3e6c48c6c9f92b6d3"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "f569719eee8574eea56f6b9b5c032425272b49915a054a800044d822471a9c68"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}
