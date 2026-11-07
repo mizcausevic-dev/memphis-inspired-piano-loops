@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/memphis-inspired-piano-loops-midi.zip",
-      "bytes": 31818,
-      "sha256": "43fae773c68f2c93c8c79699470fb45bc955666e4046017c9153a697f5a014b7"
+      "bytes": 32805,
+      "sha256": "8edffb70b750ea3d2143e9cce18760ab5792726232207f6a707b68ab2a676744"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10116,
-      "sha256": "dc57d2c32819becd78b2d944a2ace50bf011e41acdc786c572cb235771beb27f"
+      "bytes": 10306,
+      "sha256": "61cdfb7044615b61527b19db8f24bb50ad9013dbf0df4db3335d4a167d3f5345"
     },
     {
       "path": "midi/z5101-memphis-inspired-piano-loops-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "0798915ade0aa2668fe540a8180e7d6d9666e3e4dd01dc4e24f037f7c0716aa0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/memphis-inspired-piano-loops-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "8a3b83ea83dba9ebadb876b57f7485c3fcd92a4f9f68c376c3099a4cb9412007"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4027,
-      "sha256": "a417358346bd429dc81913aaa09e4bb23476d3b7b06ccd879b09b855e57214d9"
+      "bytes": 4142,
+      "sha256": "08febd0df9fecffd80154200313c5f4f78233b95546410a82f0a83fbb11a9783"
     },
     {
       "path": "social/instagram/caption.txt",
